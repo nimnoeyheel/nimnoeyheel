@@ -1,6 +1,6 @@
 # o(=^•ェ•^=)m
 
-![nimnoeyheel's GitHub stats](github-readme-stats-nimnoeyheel.vercel.app/api?username=nimnoeyheel&show_icons=true&theme=tokyonight)
+![nimnoeyheel's GitHub stats](github-readme-stats-sandy-gamma-48.vercel.app/api?username=nimnoeyheel&show_icons=true&theme=tokyonight)
 
 <!--
 **nimnoeyheel/nimnoeyheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
